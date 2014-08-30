@@ -1,1 +1,3 @@
-This app is based on the idea of deliberate practice and strives to make the process easier. First, you simply add goals and break them down to specific skills. Second, you allocate X amount of hours of work for a given goal, then for each skill of the associated goal you allocate a percentage slice of total goal time. Third, you whenever you are working on any given skill/goal you have a timer tracker to track and log your work. Finally, you'll see how well you are doing weekly, monthly, and yearly on the stats scene. 
+The idea is that, first, you set a goal give it X amount of hours, then break it down to skills and give Y% of the total goal time to each skill.
+Second, you use the tracker(#timer built into the app )when you work on a given skill, which is always linked to a goal. 
+Third, see how much you have done in a nice graph over the course of the week/month/year. I hope to get your feedback if you find bugs or any features that you would like to see.
